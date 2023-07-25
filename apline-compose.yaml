@@ -1,0 +1,6 @@
+version: '3.1'
+
+services:
+  alpine:
+    image: alpine
+    command: /bin/sh
